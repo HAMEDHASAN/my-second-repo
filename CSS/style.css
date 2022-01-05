@@ -1,0 +1,58 @@
+#mainheading{
+    color:rgb(236, 116, 216);
+    margin: 20px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+.author-name{
+    color:red;
+}
+
+.blog1{
+    background-color: azure;
+    border: 2px solid rgb(236, 116, 216);
+    border-radius: 10px; 
+    margin: 20px;
+    padding:20px;
+}
+.blog1 h1{
+    text-align: center;
+    color:rgb(236, 116, 216);
+
+}
+.blog1 p{
+    text-align: justify;
+    color:rgb(221, 97, 221)
+}
+.blog2{
+    background-color: seashell;
+    border: 2px solid rgb(236, 116, 216);
+    border-radius: 10px; 
+    margin: 20px;
+    padding:20px;
+}
+.blog2 h1{
+    text-align: center;
+    color:rgb(236, 116, 216);
+}
+.blog2 p{
+    text-align: justify;
+    color:rgb(221, 97, 221)
+}
+
+.blog3{
+    background-color:rgb(230, 225, 225);
+    border: 2px solid rgb(236, 116, 216);
+    border-radius: 10px;  
+    margin: 20px;
+    padding:20px;
+}
+.blog3 h1{
+    text-align: center;
+    color:rgb(236, 116, 216)
+}
+.blog3 p{
+    text-align: justify;
+    color:rgb(221, 97, 221)
+}
